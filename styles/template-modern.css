@@ -1,0 +1,50 @@
+.resume.modern-template {
+  font-family: "Manrope", sans-serif;
+  color: #1d1a16;
+  padding: 2rem;
+}
+
+.modern-template .resume-header {
+  border-bottom: 3px solid #bf5b2c;
+  padding-bottom: 0.8rem;
+  margin-bottom: 1rem;
+}
+
+.modern-template .resume-header h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.modern-template .contact-line {
+  margin-top: 0.4rem;
+  color: #5e5145;
+  font-size: 0.92rem;
+}
+
+.modern-template .section-title {
+  margin: 1rem 0 0.45rem;
+  color: #bf5b2c;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+}
+
+.modern-template .item-title-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.8rem;
+  font-size: 0.95rem;
+}
+
+.modern-template ul {
+  margin: 0.35rem 0 0.7rem 1rem;
+  padding: 0;
+}
+
+.modern-template li {
+  margin-bottom: 0.25rem;
+}
+
+.modern-template .muted {
+  color: #6d6054;
+}

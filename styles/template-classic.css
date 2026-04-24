@@ -1,0 +1,47 @@
+.resume.classic-template {
+  font-family: "Source Serif 4", serif;
+  color: #202020;
+  padding: 1.8rem 2rem;
+}
+
+.classic-template .resume-header {
+  text-align: center;
+  border-bottom: 1px solid #444;
+  padding-bottom: 0.8rem;
+}
+
+.classic-template .resume-header h1 {
+  margin: 0;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-size: 2rem;
+}
+
+.classic-template .contact-line {
+  margin-top: 0.4rem;
+  font-size: 0.92rem;
+}
+
+.classic-template .section-title {
+  margin: 1rem 0 0.45rem;
+  border-bottom: 1px solid #222;
+  font-size: 0.95rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.classic-template .item-title-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.8rem;
+  font-weight: 600;
+}
+
+.classic-template ul {
+  margin: 0.35rem 0 0.7rem 1rem;
+  padding: 0;
+}
+
+.classic-template .muted {
+  color: #4f4f4f;
+}

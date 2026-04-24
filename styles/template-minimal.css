@@ -1,0 +1,46 @@
+.resume.minimal-template {
+  font-family: "Manrope", sans-serif;
+  color: #1b1f2a;
+  padding: 1.6rem;
+}
+
+.minimal-template .resume-header {
+  background: linear-gradient(135deg, #e8f2ff 0%, #f1f8ff 100%);
+  border: 1px solid #d2e4fb;
+  border-radius: 14px;
+  padding: 0.9rem 1rem;
+  margin-bottom: 1rem;
+}
+
+.minimal-template .resume-header h1 {
+  margin: 0;
+  font-size: 1.85rem;
+}
+
+.minimal-template .contact-line {
+  margin-top: 0.35rem;
+  color: #355072;
+  font-size: 0.9rem;
+}
+
+.minimal-template .section-title {
+  margin: 0.95rem 0 0.4rem;
+  color: #2a5c9a;
+  font-size: 0.92rem;
+  font-weight: 800;
+}
+
+.minimal-template .item-title-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.8rem;
+}
+
+.minimal-template ul {
+  margin: 0.35rem 0 0.7rem 1rem;
+  padding: 0;
+}
+
+.minimal-template .muted {
+  color: #5f6f84;
+}
